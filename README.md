@@ -15,7 +15,7 @@ A simple API server using LangChain's Runnable interfaces to provide on-demand t
 
 ### Prerequisites
 
-* Python 3.8+
+* Python 3
 * `fastapi` and `langchain_ollama` libraries installed (`pip install fastapi langchain_ollama`)
 
 ### Running the Server
