@@ -39,4 +39,4 @@ Send a POST request to `http://localhost:8000/chain` with a JSON body containing
 Replace `"Hello world!"` with the text you want to translate and `"es"` with the target language.
 
 ### Flutter Frontend
-For a user-friendly frontend, check out the (Translatinator Flutter App)[https://github.com/aligorithm/translatinator-flutter].
+For a user-friendly frontend, check out the [Translatinator Flutter App](https://github.com/aligorithm/translatinator-flutter).
