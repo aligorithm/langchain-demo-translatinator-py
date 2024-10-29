@@ -30,10 +30,7 @@ A simple API server using LangChain's Runnable interfaces to provide on-demand t
 Send a POST request to `http://localhost:8000/chain` with a JSON body containing:
 
 ```markdown
-{
-  "text": "Hello world!",
-  "language": "es"
-}
+{"input":{"language":"Italian","text":"Hello"},"config":{}}
 ```
 
 Replace `"Hello world!"` with the text you want to translate and `"es"` with the target language.
